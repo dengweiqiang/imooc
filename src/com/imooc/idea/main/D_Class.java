@@ -1,10 +1,6 @@
-package com.imooc.idea;
+package com.imooc.idea.main;
 
 public class D_Class {
-    /**
-     *
-     * @param args
-     */
     public static void main(String[] args) {
 
     }
@@ -13,6 +9,7 @@ public class D_Class {
      * 13S
      */
     public static final String KAJA = "jlsdkfa";
+
     public String string_D(int i, String str) {
         return null;
     }
@@ -21,16 +18,14 @@ public class D_Class {
 
     private int lkl;
 
-        private String klsd;
+    private String klsd;
 
-        private String lkdlajdow;
+    private String lkdlajdow;
 
-        /**
-         *kdsal
-         */
-        private String sdlkfja;
-
-
+    /**
+     * kdsal
+     */
+    private String sdlkfja;
 
 
 }

@@ -1,4 +1,4 @@
-package com.imooc.idea;
+package com.imooc.idea.main;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.imooc.idea;
+package com.imooc.idea.main;
 
 public class UserServiceImpl implements UserService {
     @Override
